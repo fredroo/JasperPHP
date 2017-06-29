@@ -135,6 +135,12 @@ If you get:
 Then install it with: (Ubuntu/Debian)
 
 	$ sudo apt-get install default-jdk
+	
+	
+Or Then install it with: (CentOS/Fedora)
+
+	$ sudo yum install java-1.7.0-openjdk-devel
+
 
 Now run the `java -version` again and check if the output is ok.
 
